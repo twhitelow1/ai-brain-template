@@ -1,7 +1,7 @@
 # AI Brain (GitHub Edition for Lead Alchemist Ask AI)
 
 DubLow Digital | Version 2.0.0 | November 10, 2026
-Adapted from the AI Employee Course starter (ContentCreator.com, v1.0).
+
 
 This repository is a template for an AI employee's brain. Copy it into your own GitHub account, connect it to Lead Alchemist's Ask AI, and manage it in GitHub. Ask AI reads it for context, rules and procedures and commits updates back. You can edit it on GitHub yourself at any time. The commit history is the version archive.
 
