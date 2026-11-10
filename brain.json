@@ -1,0 +1,37 @@
+{
+  "name": "AI Brain",
+  "edition": "Lead Alchemist Ask AI + GitHub",
+  "version": "2.0.0",
+  "released": "2026-11-10",
+  "publisher": "DubLow Digital",
+  "template_repo": "DubLow-Digital/ai-brain-template",
+  "default_branch": "main",
+  "installed_from_version": null,
+  "installed_on": null,
+  "managed_paths": [
+    "AGENTS.md",
+    "README.md",
+    "CHANGELOG.md",
+    "Skills/README.md",
+    "Skills/brain-setup/SKILL.md",
+    "Skills/brain-maintenance/SKILL.md",
+    "Skills/project-handoff/SKILL.md",
+    "Employees/README.md",
+    "Employees/_Employee-Profile-Template.md",
+    "Projects/README.md",
+    "Projects/_Project-Template/BRIEF.md",
+    "Projects/_Project-Template/HANDOFF.md",
+    "Skills/brain-update/SKILL.md",
+    "docs/PROJECT-INSTRUCTIONS.md",
+    "docs/CONNECTOR-SETUP.md"
+  ],
+  "owner_paths": [
+    "Context/",
+    "Employees/ (all files except README.md and _Employee-Profile-Template.md)",
+    "Projects/ (all folders except _Project-Template)",
+    "INDEX.md (owner entries)",
+    "brain.json (installed_from_version, installed_on)"
+  ],
+  "customized": [],
+  "updated_on": null
+}
